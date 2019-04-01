@@ -1,0 +1,40 @@
+
+
+.logo-wrapper{
+    margin: 20px 0;
+    text-align: center
+}
+.logo-span{
+    /* font-family: cursive; */
+    /* background: antiquewhite; */
+    padding: 20px;
+    border-radius: 40px;
+}
+/* theme color: pink */
+.my-background{
+    background: pink;
+}
+body{
+    margin: 100px 0;
+}
+.cate{
+    background:red;
+    margin-right: 100px;
+    color: white !important;
+}
+.nopadding{
+    padding: 0;
+    margin: 0;
+}
+.post-ul li{
+    text-align: left;
+    float: left;
+    width: 33%;
+    list-style: none;
+    margin: 0;
+}
+
+
+footer{
+    background: #e8e8e8;
+}
